@@ -2,6 +2,7 @@ name: Microsearch
 favicon: null
 layout_spectrum: 0.9920677926857024
 typography_spectrum: 0.9963240674696863
+title: Microsearch landing page
 cta:
   domain: null
   bucket: null
