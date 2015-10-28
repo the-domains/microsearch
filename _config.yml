@@ -1,7 +1,7 @@
 name: Microsearch
 favicon: null
-layout_spectrum: 0.9920677926857024
-typography_spectrum: 0.9963240674696863
+layout_spectrum: 0.27138
+typography_spectrum: 0.36529
 title: Microsearch landing page
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#aca3c4'
     - '#8a80ad'
   brandStrength: 0.75
-  lightness: 0.521533566294238
-  saturation: 0.9387744162231684
-  rhythmicContrast: 0.26622641272842884
+  lightness: 0.5625
+  saturation: 0.8125
+  rhythmicContrast: 0.25
 purpose: []
